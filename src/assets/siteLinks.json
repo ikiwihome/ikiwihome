@@ -2,12 +2,22 @@
   {
     "icon": "Blog",
     "name": "博客",
-    "link": "https://blog.imsyy.top/"
+    "link": "https://www.ikiwi.cc/"
+  },
+  {
+    "icon": "StickyNoteRegular",
+    "name": "随手记",
+    "link": "https://memo.ikiwi.cc/"
+  },
+  {
+    "icon": "Robot",
+    "name": "AI问答",
+    "link": "https://chatgpt.ikiwi.cc/"
   },
   {
     "icon": "Cloud",
     "name": "网盘",
-    "link": "https://pan.imsyy.top/"
+    "link": "https://a.ikiwi.cc/"
   },
   {
     "icon": "CompactDisc",
@@ -15,23 +25,8 @@
     "link": "https://music.imsyy.top/"
   },
   {
-    "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.imsyy.top/"
-  },
-  {
-    "icon": "Book",
+    "icon": "ListAlt",
     "name": "网址集",
-    "link": "https://web.imsyy.top/"
-  },
-  {
-    "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
-  },
-  {
-    "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "link": "https://list.ikiwi.cc/"
   }
 ]

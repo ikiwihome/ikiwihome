@@ -1,8 +1,8 @@
 {
-  "name": "home",
-  "author": "imsyy",
-  "github": "https://github.com/imsyy/home",
-  "home": "https://imsyy.top",
+  "name": "ikiwihome",
+  "author": "ikiwi",
+  "github": "https://github.com/ikiwihome/ikiwihome",
+  "home": "https://ikiwi.cc",
   "private": true,
   "version": "4.1.4",
   "type": "module",
