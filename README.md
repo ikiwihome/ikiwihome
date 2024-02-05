@@ -82,7 +82,7 @@ docker run -p 12445:12445 -d home
 {
   "icon": "Blog",						
   "name": "博客",						
-  "link": "https://blog.imsyy.top/"	
+  "link": "https://ikiwi.cc/"	
 },
 ```
 
