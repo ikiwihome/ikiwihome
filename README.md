@@ -15,7 +15,7 @@
 
 <h3 align="center">A passionate AI4S developer and Chemical Engineer from China</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yuzehao2023&label=Profile%20views&color=0e75b6&style=flat" alt="yuzehao2023" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ikiwihome&label=Profile%20views&color=0e75b6&style=flat" alt="ikiwihome" /> </p>
 
 
 
@@ -23,8 +23,8 @@
 
 - ⚡ Fun fact **I love Marathon**
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YuzeHao2023&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=YuzeHao2023&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ikiwihome&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ikiwihome&theme=dark)
 
 ---
 
@@ -169,9 +169,9 @@
 ###
 
 <div style="text-align: center;">
-  <img src ="https://githubreadme-a6hp.vercel.app/api?username=YuzeHao2023&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&include_all_commits=true" height="124" alt="stats graph" />
-  <img src="https://githubreadme-a6hp.vercel.app/api/top-langs/?username=YuzeHao2023&theme=gruvbox&show_icons=true&hide_border=true&layout=compact&count_private=true&include_all_commits=true" height="124" alt="languages graph" />
-  <img src="https://streak-stats.vercel.app/?user=YuzeHao2023&theme=gruvbox&hide_border=true" height="124" alt="snorlark" />
+  <img src ="https://githubreadme-a6hp.vercel.app/api?username=ikiwihome&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&include_all_commits=true" height="124" alt="stats graph" />
+  <img src="https://githubreadme-a6hp.vercel.app/api/top-langs/?username=ikiwihome&theme=gruvbox&show_icons=true&hide_border=true&layout=compact&count_private=true&include_all_commits=true" height="124" alt="languages graph" />
+  <img src="https://streak-stats.vercel.app/?user=ikiwihome&theme=gruvbox&hide_border=true" height="124" alt="snorlark" />
 </div>
 
 ###
@@ -180,13 +180,13 @@
 
 ###
 
-  <img src="https://github-trophies.vercel.app/?username=YuzeHao2023&title=MultiLanguage,Commits,Repositories,PullRequest,Organizations,Contributed,Issues,Experience,Reviews,Stars,Followers&theme=gruvbox&no-frame=true&row=1&column=8" alt="trophy" />
+  <img src="https://github-trophies.vercel.app/?username=ikiwihome&title=MultiLanguage,Commits,Repositories,PullRequest,Organizations,Contributed,Issues,Experience,Reviews,Stars,Followers&theme=gruvbox&no-frame=true&row=1&column=8" alt="trophy" />
   
 ###
 
 ---
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="YuzeHao2023's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=YuzeHao2023&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="ikiwihome's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=ikiwihome&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 ---
 
